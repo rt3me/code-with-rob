@@ -10,8 +10,7 @@ class MyDocument extends Document {
     const meta = {
       title: 'Code With Rob',
       description: 'Personal blog and portfolio of Robert Turner',
-      image:
-        'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
+      image: '../public/images/code-with-rob.jpg'
     }
 
     return (
