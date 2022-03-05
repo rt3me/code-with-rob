@@ -1,4 +1,1 @@
-# Code With Rob
-
-* Source code for https://codewithrob.dev
-* My personal portfolio site built with Next.js
+# Next.js Simple Blog
